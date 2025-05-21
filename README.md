@@ -75,9 +75,9 @@ Output example:
 ```
 Cheapest: 20
 Number of cheapest configurations: 3
-```
+
 One cheapest solution (bucket placements):
 Component [1, 2, 3]: Buckets on [1]
 Component [4, 5, 6]: Buckets on [4]
-
+```
 
